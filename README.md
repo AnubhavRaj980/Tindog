@@ -1,0 +1,3 @@
+# Tindog
+
+Just a website
